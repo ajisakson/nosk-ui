@@ -1,0 +1,11 @@
+{
+  "runtime.version": "Lua 5.1",
+  "diagnostics.globals": [
+    "NoskUIDB", "SLASH_NOSKUI1", "SLASH_NOSKUI2", "SlashCmdList",
+    "CreateFrame", "hooksecurefunc", "issecretvalue", "InCombatLockdown",
+    "C_NamePlate", "C_Timer", "C_UnitAuras",
+    "UnitExists", "UnitClass", "UnitIsUnit", "UnitCanAttack", "UnitAffectingCombat",
+    "UnitThreatSituation", "UnitGroupRolesAssigned", "UnitInParty", "UnitInRaid", "IsInGroup",
+    "GetShapeshiftFormID", "GetSpecialization", "GetSpecializationRole"
+  ]
+}
